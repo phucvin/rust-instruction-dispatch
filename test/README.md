@@ -25,3 +25,7 @@ Rust/direct-call-theading | Average of 100 results:    7507662 ns
 Rust/optimized_direct_threading | Average of 100 results:    16245343 ns
 
 Rust/direct-tail-call-threading | Average of 100 results:    3176299 ns
+
+See also:
+- https://github.com/vshymanskyy/interp
+- https://gist.github.com/foonathan/f034c74feb6f78e867e596a362ecdb3c
