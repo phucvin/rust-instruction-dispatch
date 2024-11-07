@@ -55,3 +55,4 @@ clang++ -Os vm_token_tail_call.cpp main.cpp -o vm_token_tail_call.out && time ./
 See also:
 - https://github.com/vshymanskyy/interp
 - https://gist.github.com/foonathan/f034c74feb6f78e867e596a362ecdb3c
+- https://github.com/pliniker/dispatchers
